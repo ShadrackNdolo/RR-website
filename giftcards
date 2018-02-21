@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+    <!-- BC_OBNW -->
+<head>
+<title>Rafiki's | Gift Cards</title>
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<link type="text/css" href="StyleSheets/ModuleStyleSheets.css" rel="StyleSheet" />
+<script type="text/javascript">var jslang='EN';</script>
+<link href="https://fonts.googleapis.com/css?family=Montserrat:200,300,400,500,700,800|Oswald:300,400,500,700|Roboto+Slab:300,400,700" rel="stylesheet">
+<link media="all" rel="stylesheet" href="easy/icons/css/fontello-codes.css">
+<link media="all" rel="stylesheet" href="easy/icons/css/fontello-embedded.css">
+<link media="all" rel="stylesheet" href="easy/icons/css/fontello.css">
+<link rel="stylesheet" href="easy/css/reset.css">
+<link rel="stylesheet" href="easy/css/slick.css">
+<link rel="stylesheet" href="easy/css/lity.css">
+<link rel="stylesheet" href="easy/css/all-styles.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="easy/js/modernizr.min.js"></script>
+<script src="easy/js/slick.min.js"></script>
+<script src="easy/js/lity.min.js"></script>
+<script src="easy/js/main.js"></script>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!--[if lt IE 8]>
+<link media="all" rel="stylesheet" href="/easy/icons/css/fontello-ie7-codes.css">
+<link media="all" rel="stylesheet" href="/easy/icons/css/fontello-ie7.css">
+<![endif]-->
+<!--[if lt IE 9]>  
+<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>  
+<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>  
+<![endif]-->
+<meta name="description" content="" />
+</head>
+<body>
+
+    
+        <div class="body-wrap">
+            <nav>
+                <a class="logo" href="index.html">
+                   
+                    <img alt="Easy Bistro" file-type="svg" src="easy/images/subpage-logo.svg" />
+                    <img alt="Easy Bistro" file-type="png" src="easy/images/subpage-logo.png" />
+                  
+                </a>
+                <div class="pad-box">
+                    <div class="col half right">
+                        <div class="nav-block main-links">
+                            <script type="text/javascript" src="CatalystScripts/Java_DynMenusSelectedCSS.js?vs=b87.r512805-phase1"></script><!-- Dynamic Menu Begin CSS Output --><div id="cat_2376132_divs"><ul id="nav_2376132"><li><a href="menus">Menus</a></li><li><a href="private-dining">Private Dining</a></li><li><a href="chef">The Chef</a></li><li><a href="easy/press">Press</a></li><li><a href="giftcards">Gift Cards</a></li><li class="link-pop"><a href="giftcards#reservations">Reservations</a></li></ul></div><script type="text/javascript">catSetSelectedCSSItem('nav_2376132');</script><!-- Dynamic Menu End CSS Output -->
+                        </div>
+                        <div class="nav-block external-links" style="display:none;">
+                            <a href="giftcards#reservations" data-lity>Reservation <i class="demo-icon icon-link"></i></a>
+                            <a href="giftcards#" target="_blank">Gift Cards <i class="demo-icon icon-link"></i></a>
+                        </div>
+                        <div class="nav-block sister-links">
+                            <a class="col half pad-right" href="http://www.mainstreetmeatschatt.com/" target="_blank">
+                                <img alt="Main Street Meats" src="easy/images/msm-logo.png" />
+                                <h5>Our Sister Restaurant</h5>
+                            </a>
+                            <a class="col half pad-left" href="http://www.sceniccity-supperclub.com/" target="_blank">
+                                <img alt="Scenic City Supper Club" src="easy/images/scsc-logo_new.png" />
+                                <h5>Guest Chef Event Series</h5>
+                            </a>
+                            <span class="clearfix"></span>
+                        </div>
+                    </div>
+                    <div class="col half">
+                        <div class="nav-block">
+                            <h7><a class="location" href="https://www.google.com/maps/dir/''/easy+bistro/@35.0544632,-85.3809869,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x88605e6174eff3c5:0x3d4ed662adf5856a!2m2!1d-85.3109468!2d35.0544833" target="_blank">203 Broad St, Chattanooga, TN 37402</a></h7>
+                            <h2><a class="tel" href="tel:4232661121">423.266.1121</a></h2>
+                            <ul class="social">
+                                <li>
+                                    <a href="https://www.facebook.com/easybistro/" target="_blank">
+                                        <i class="demo-icon icon-facebook"></i>
+                                        <span>Facebook</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://twitter.com/easybistro?lang=en" target="_blank">
+                                        <i class="demo-icon icon-twitter"></i>
+                                        <span>Twitter</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.instagram.com/easybistro/" target="_blank">
+                                        <i class="demo-icon icon-instagram"></i>
+                                        <span>Instagram</span>
+                                    </a>
+                                </li>
+                                <span class="clearfix"></span>
+                            </ul>
+                            <h2>Monday–Friday</h2>
+                            <h7>5–10pm</h7>
+                            
+                            <h2>Saturday</h2>
+                            <h7>11am–4pm / 5pm–10pm</h7>
+                            
+                            <h2>Sunday</h2>
+                            <h7>11am–4pm / 5–9pm</h7>
+                        </div>
+                        <div class="nav-block newsletter">
+                            <h6 class="color-gold">Sign Up For Our Newsletter<br /> To Get The Latest News</h6>
+                            <a href="signup" class="btn" target="_blank">Sign Up</a>
+                        </div>
+                    </div>
+                    <span class="clearfix"></span>
+                </div>
+            </nav>
+            <header>
+            
+                <a class="btn reservations home" href="giftcards#reservations" data-lity>Reservations</a>
+               
+                <section id="reservations" class="lity-hide">
+                    <script type="text/javascript" src="http://secure.opentable.com/widget/reservation/loader?rid=28087&amp;domain=com&amp;type=standard&amp;theme=standard&amp;lang=en&amp;overlay=false&amp;iframe=true"></script>
+                </section>
+                <div id="trigger" class="btn-wrapper">
+                    <button class="menu-button"><span>Menu</span></button>
+                </div>
+            </header>
+            <div class="page-wrapper">
+                <div class="container">
+                 
+                    <div class="subpage-head">
+                        <a class="logo" href="index.html">
+                                                         <img alt="Easy Bistro" file-type="svg" src="easy/images/subpage-logo.svg" />
+                            <img alt="Easy Bistro" file-type="png" src="easy/images/subpage-logo.png" />
+                                                    </a>
+                                                <h3>Gift Cards</h3>
+                                            </div>
+                    
+                    
+
+    
+    
+        <section class="giftcards">
+            <a class="col half relative" href="https://easybistro.instagift.com/" target="_blank">
+                <div class="overlay hover">
+                    <div class="align-middle text-center">
+                        <h6>Option 1</h6>
+                        <h1>instagift</h1>
+                        <span class="btn">Buy</span>
+                    </div>
+                </div>
+                <div class="bg-img" style="background-image:url(easy/images/gc-table.jpg);"></div>
+            </a>
+            
+            <a class="col half relative" href="https://gifts.opentable.com/Easy-Bistro-and-Bar" target="_blank">
+                <div class="overlay hover">
+                    <div class="align-middle text-center">
+                        <h6>Option 2</h6>
+                        <h1>OpenTable</h1>
+                        <span class="btn">Buy</span>
+                    </div>
+                </div>
+                <div class="bg-img" style="background-image:url(easy/images/gc-oysters.jpg);"></div>
+            </a>
+            <span class="clearfix"></span>
+        </section>
+        
+    
+
+                    <footer class="subpage">
+    <div class="pad-box">
+        <div class="col third pad-right">
+            <a class="logo" href="index.html">
+                <img alt="Easy Bistro" file-type="svg" src="easy/images/logo.svg"/>
+                <img alt="Easy Bistro" file-type="png" src="easy/images/logo.png"/>
+            </a>
+        </div>
+        <div class="col third pad-both text-center">
+            <div class="hours">
+                <h2>Monday–Friday</h2>
+                <h7>5–10pm</h7>
+            </div>
+            <div class="hours">
+                <h2>Saturday</h2>
+                <h7>11am–4pm / 5pm–10pm</h7>
+            </div>
+            <div class="hours">
+                <h2>Sunday</h2>
+                <h7>11am–4pm / 5–9pm</h7>
+            </div>
+        </div>
+        <div class="col third pad-left text-right">
+            <h2><a class="tel" href="tel:4232661121">423.266.1121</a></h2>
+            <h7><a class="location" href="https://www.google.com/maps/dir/''/easy+bistro/@35.0544632,-85.3809869,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x88605e6174eff3c5:0x3d4ed662adf5856a!2m2!1d-85.3109468!2d35.0544833" target="_blank">203 Broad St, Chattanooga, TN 37402</a></h7>
+            <hr />
+            <h6 class="color-gold">Sign Up For Our Newsletter<br /> To Get The Latest News</h6>
+            <a href="signup" class="btn" target="_blank">Sign Up</a>
+        </div>
+        <span class="clearfix"></span>
+    </div>
+</footer> 
+                </div>
+            </div>
+        </div>
+        
+        <section id="reservations" class="lity-hide">
+            <script type="text/javascript" src="http://secure.opentable.com/widget/reservation/loader?rid=28087&amp;domain=com&amp;type=standard&amp;theme=standard&amp;lang=en&amp;overlay=false&amp;iframe=true"></script>
+        </section>
+        
+        
+        
+    
+</body>
+</html>
